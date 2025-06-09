@@ -8,7 +8,9 @@ background: linear-gradient(90deg, rgba(78, 31, 0, 1) 0%, rgba(100, 74, 7, 1) 35
 cabecalho{
 background-image: url(`./img/fundo/.png´);
 background-repeat: no-repeat;
-
+background-size: cover;
+background-position: top center;
+height: 300px;
 }
 
 cabecalho-img{
