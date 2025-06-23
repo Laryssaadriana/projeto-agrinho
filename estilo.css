@@ -10,7 +10,7 @@ background-image: url(`./img/fundo/.png´);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: top center;
-height: 300px;
+height: 200px;
 display: flex;
 font-size: 20px;
 justify-content: space-around;
