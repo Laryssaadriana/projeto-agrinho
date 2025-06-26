@@ -5,7 +5,7 @@ background: linear-gradient(90deg, rgba(78, 31, 0, 1) 0%, rgba(100, 74, 7, 1) 35
     font-size: 35px;
     height: 100vh;
 }
-cabecalho{
+.cabecalho{
 background-image: url('./img/cafe.png');
 background-repeat: no-repeat;
 background-size: cover;
