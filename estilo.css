@@ -1,21 +1,30 @@
-body{
-   background: #e0dfde;
-background: linear-gradient(90deg, rgb(240, 240, 240) 0%, rgb(218, 216, 213) 35%, rgb(223, 222, 221) 100%);
-    color:rgb(214, 201, 180);
+body {
+    background: #b3b3b3;
+    background: linear-gradient(90deg, rgb(240, 240, 240) 0%, rgb(218, 216, 213) 35%, rgb(223, 222, 221) 100%);
+    color: rgb(214, 201, 180);
     font-size: 35px;
     height: 100vh;
 }
-.cabecalho{
-background-image: url('./img/cafe.png');
-background-repeat: no-repeat;
-background-size: cover;
-background-position: top center;
-height: 200px;
-display: flex;
-font-size: 20px;
-justify-content: space-around;
+
+.cabecalho {
+    background-image: url('./img/cafe.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 200px;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
 }
 
-cabecalho-img{
-width: 20%;
+cabecalho-img {
+    width: 20%;
 }
+
+<h2>
+Nossos produtos:
+
+
+
+
+</h2>
