@@ -1,8 +1,8 @@
 body {
-    background: #b3b3b3;
-    background: linear-gradient(90deg, rgb(240, 240, 240) 0%, rgb(218, 216, 213) 35%, rgb(223, 222, 221) 100%);
-    color: rgb(214, 201, 180);
-    font-size: 35px;
+    background: #e6e4e4;
+    background: linear-gradient(90deg, rgb(240, 240, 240) 0%, rgb(218, 216, 213) 35%, rgb(29, 29, 28) 100%);
+    color: rgb(226, 226, 219);
+    font-size: 40px;
     height: 100vh;
 }
 
