@@ -1,6 +1,6 @@
 body{
-   background: #4E1F00;
-background: linear-gradient(90deg, rgba(78, 31, 0, 1) 0%, rgba(100, 74, 7, 1) 35%, rgba(168, 101, 35, 1) 100%);
+   background: #e0dfde;
+background: linear-gradient(90deg, rgb(240, 240, 240) 0%, rgb(218, 216, 213) 35%, rgb(223, 222, 221) 100%);
     color:rgb(214, 201, 180);
     font-size: 35px;
     height: 100vh;
