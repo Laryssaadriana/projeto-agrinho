@@ -2,7 +2,7 @@ body {
     background: #f1efef;
     background: linear-gradient(90deg, rgb(240, 240, 240) 0%, rgb(218, 216, 213) 35%, rgb(235, 235, 233) 100%);
     color: rgb(17, 17, 16);
-    font-size: 40px;
+    font-size: 50px;
     height: 100vh;
 }
 
